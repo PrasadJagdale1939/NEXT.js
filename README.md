@@ -119,10 +119,6 @@ A modern, AI-powered expense tracking web application built with Next.js 15, fea
 
    ```bash
    npm run dev
-   # or
-   yarn dev
-   # or
-   pnpm dev
    ```
 
 6. **Open your browser**
