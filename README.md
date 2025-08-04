@@ -81,10 +81,6 @@ A modern, AI-powered expense tracking web application built with Next.js 15, fea
 
    ```bash
    npm install
-   # or
-   yarn install
-   # or
-   pnpm install
    ```
 
 3. **Set up environment variables**
