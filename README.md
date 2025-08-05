@@ -166,13 +166,13 @@ View the complete database diagram: [Eraser Diagram](https://app.eraser.io/works
 2. **Add environment variables in Vercel dashboard**
 3. **Deploy automatically on every push to main branch**
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/sahandghavidel/next-expense-tracker-ai)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=[https://github.com/PrasadJagdale1939/NEXT.js.git)
 
 ## 📎 Useful Links
 
 - **[Neon Database](https://get.neon.com/0pFcBSF)** - Serverless PostgreSQL
 - **[Clerk Authentication](https://go.clerk.com/WSe7K8F)** - User management
-- **[GitHub Repository](https://github.com/sahandghavidel/next-expense-tracker-ai)** - Source code
+- **[GitHub Repository](https://github.com/PrasadJagdale1939/NEXT.js.git)** - Source code
 - **[Database Diagram](https://app.eraser.io/workspace/XhlJP6Rdmx6nrGR0SpKz?origin=share)** - Visual schema
 - **[Next.js Documentation](https://nextjs.org)** - Framework docs
 - **[Tailwind CSS](https://tailwindcss.com)** - Styling framework
