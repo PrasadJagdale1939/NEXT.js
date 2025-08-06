@@ -57,9 +57,6 @@ A modern, AI-powered expense tracking web application built with Next.js 15, fea
 - **[Clerk](https://go.clerk.com/WSe7K8F)** - Complete authentication solution
 - **OpenAI Compatible API** - For intelligent expense categorization
 
-### Deployment
-
-- **[Vercel](https://vercel.com)** - Serverless deployment platform
 
 ## 🚀 Getting Started
 
@@ -158,15 +155,6 @@ View the complete database diagram: [Eraser Diagram](https://app.eraser.io/works
 - One-click expense deletion
 - Real-time updates across all components
 
-## 🌐 Deployment
-
-### Deploy on Vercel (Recommended)
-
-1. **Connect your GitHub repository to Vercel**
-2. **Add environment variables in Vercel dashboard**
-3. **Deploy automatically on every push to main branch**
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=[https://github.com/PrasadJagdale1939/NEXT.js.git)
 
 ## 📎 Useful Links
 
@@ -176,5 +164,4 @@ View the complete database diagram: [Eraser Diagram](https://app.eraser.io/works
 - **[Database Diagram](https://app.eraser.io/workspace/XhlJP6Rdmx6nrGR0SpKz?origin=share)** - Visual schema
 - **[Next.js Documentation](https://nextjs.org)** - Framework docs
 - **[Tailwind CSS](https://tailwindcss.com)** - Styling framework
-- **[Vercel Platform](https://vercel.com)** - Deployment platform
 
